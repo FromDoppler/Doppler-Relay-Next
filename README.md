@@ -79,3 +79,6 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 - [Prettier](https://prettier.io/) - Formateador automáticamente de código
 
 ---
+# contributors
+
+- Elthon Musk
